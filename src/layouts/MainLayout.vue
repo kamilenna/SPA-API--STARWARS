@@ -52,7 +52,7 @@ const linksData = [
     link: '/'
   },
   {
-    title: 'PERSONAGUENS',
+    title: 'PERSONAGENS',
     icon: 'perm_identity',
     link: '/personagens'
   },

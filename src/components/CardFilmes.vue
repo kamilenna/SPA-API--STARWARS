@@ -8,11 +8,11 @@
   <q-separator dark inset />
 
   <q-card-section>
-    <p>Episódio: {{episode_id}}</p>
-    <p>Abertura: {{opening_crawl}}</p>
-    <p>Diretor: {{director}}</p>
-    <p>Produtores: {{producer}}</p>
-    <p>Data de lançamento: {{release_date}}</p>
+    <p><strong>Episódio:</strong> {{episode_id}}</p>
+    <p><strong>Abertura:</strong> {{opening_crawl}}</p>
+    <p><strong>Diretor:</strong> {{director}}</p>
+    <p><strong>Produtores:</strong> {{producer}}</p>
+    <p><strong>Data de lançamento:</strong> {{release_date}}</p>
   </q-card-section>
 </q-card>
 </div>
